@@ -1,2 +1,2 @@
-# MVVMExample
-mvvm example
+# Android project developed with MVVM
+
